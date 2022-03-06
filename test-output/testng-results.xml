@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="14" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-05T12:10:25 IST" name="Default suite" finished-at="2022-03-05T12:10:25 IST" duration-ms="125">
+    <groups>
+    </groups>
+    <test started-at="2022-03-05T12:10:25 IST" name="Default test" finished-at="2022-03-05T12:10:25 IST" duration-ms="125">
+      <class name="org.test.SampleTest">
+        <test-method signature="tco()[pri:-4, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco" finished-at="2022-03-05T12:10:25 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco -->
+        <test-method signature="tco1()[pri:-2, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco1" finished-at="2022-03-05T12:10:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco1 -->
+        <test-method signature="tco4()[pri:0, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco4" finished-at="2022-03-05T12:10:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco4()[pri:0, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco4" finished-at="2022-03-05T12:10:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco4()[pri:0, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco4" finished-at="2022-03-05T12:10:25 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco4()[pri:0, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco4" finished-at="2022-03-05T12:10:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco4()[pri:0, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco4" finished-at="2022-03-05T12:10:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco4()[pri:0, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco4" finished-at="2022-03-05T12:10:25 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco4()[pri:0, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco4" finished-at="2022-03-05T12:10:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco4()[pri:0, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco4" finished-at="2022-03-05T12:10:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco4()[pri:0, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco4" finished-at="2022-03-05T12:10:25 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco4()[pri:0, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco4" finished-at="2022-03-05T12:10:25 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco4 -->
+        <test-method signature="tco2()[pri:3, instance:org.test.SampleTest@10163d6]" started-at="2022-03-05T12:10:25 IST" name="tco2" finished-at="2022-03-05T12:10:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco2 -->
+      </class> <!-- org.test.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
